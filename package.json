@@ -1,0 +1,24 @@
+{
+  "name": "obfuscatorModule",
+  "description": "Module for obfuscation css classes",
+  "version": "1.0",
+  "homepage": "https://github.com/vy4eslavik/obfuscateModule",
+  "author": {
+    "name": "vy4eslavik",
+    "email": "vy4eslavik@yandex.ua"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vy4eslavik/obfuscateModule.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "obfuscation",
+    "css",
+    "minifier",
+    "optimize",
+    "yandexTest"
+  ]
+}
